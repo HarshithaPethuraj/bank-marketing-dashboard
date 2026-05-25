@@ -502,3 +502,9 @@ st.caption(
     " **Dataset:** UCI Bank Marketing (Portuguese banking institution, May 2008 – Nov 2010) · "
     "41,188 customer contacts · 20 features · Binary target (subscribed term deposit?)"
 )
+
+st.markdown("---")
+st.markdown(
+    "<center><h5>Built by Harshitha Pethuraj </h5></center>",
+    unsafe_allow_html=True
+)
