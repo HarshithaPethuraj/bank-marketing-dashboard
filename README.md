@@ -20,7 +20,7 @@
 
 ##  Live Demo
 
-🔗 **[Try the dashboard](https://YOUR-STREAMLIT-URL.streamlit.app)** _(add link after deployment)_
+🔗 **[Try the dashboard](https://bank-marketing-dashboard-jdyzgctpo4fxzbuicvniwu.streamlit.app/)** 
 
 ---
 
